@@ -1,0 +1,2 @@
+# QuickLook.Plugin.Affinity
+纯小白设计师因win系统上没有找到能看Affinity文件的图片查看器，就只能用AI搓一个QuickLook的插件代替，目前只能凑合用。
